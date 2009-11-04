@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "League Gothic";
+  src: url(league-gothic.eot);
+  src: local("League Gothic"),
+       url(league-gothic.otf) format("opentype");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 900%;
+  background-color: #900;
+  color: #fff;
+}
+
+h1 {
+  margin: 10% 0 0 0;
+  padding: 0;
+  font-size: 1em;
+  font-weight: normal;
+  font-family: "League Gothic", Haettenschweiler, Impact, "Abadi MT Condensed Extra Bold", "Arial Narrow", Helvetica, sans-serif;
+  line-height: 1;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+span {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
