@@ -29,3 +29,10 @@ span {
   margin: 0;
   padding: 0;
 }
+
+#can-suck-it {
+  /* word-spacing: 0.375em; */
+  /* letter-spacing: 0.068em; */
+  word-spacing: 0.1875em;
+  letter-spacing: 0.034em;
+}
